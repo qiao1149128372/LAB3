@@ -1,0 +1,8 @@
+Breakpoint 1 at 0xfe: file source/main.c, line 25.
+Note: automatically using hardware breakpoints for read-only addresses.
+======================================================
+Running all tests..."
+
+28		if(GetBit(PINA,i))
+“PINA:...“PINA:...“PINA:...======================================================
+Quitting: Remote doesn't know how to detach
